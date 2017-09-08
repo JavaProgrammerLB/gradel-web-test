@@ -23,8 +23,8 @@ dependencies {
 }
 
 jettyRun {
-    contextPath= "spring4"
-    httpPort= 8080
+    contextPath = "spring4"
+    httpPort = 8080
 }
 
 jettyRunWar {
